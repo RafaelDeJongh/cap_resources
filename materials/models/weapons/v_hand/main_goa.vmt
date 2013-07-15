@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/weapons/v_hand/main_goa"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "Models/weapons/v_hand/main_goa_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}
+
+

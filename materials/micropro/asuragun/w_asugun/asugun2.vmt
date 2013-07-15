@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "micropro/Asuragun/v_asugun/asugun2"
+	"$bumpmap" "micropro/Asuragun/v_asugun/asugun2_normal"
+	"$surfaceprop" "weapon" 
+	"$model" 1
+	"$nocull" 0
+	"$translucent" 0
+	"$additive" 0
+	"$selfillum" 1
+}

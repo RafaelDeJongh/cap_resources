@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/madjawa/malp/arm"
+	"$bumpmap" "models/madjawa/malp/armnormal"
+}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/hdevice/hand_black"
+	//"$envmap" "env_cubemap"
+	"$bumpmap" "models/hdevice/hand_black_normal"
+	//"$normalmapalphaenvmapmask" 0.2
+	//"$envmapcontrast" 0.2
+	//"$envmapsaturation" 0.5
+	//"$envmaptint" "[ .2 .2 .2 ]"
+}

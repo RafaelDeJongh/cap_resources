@@ -1,0 +1,26 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"   "MarkJaw/atlantis_holo/buttons"
+	"$bumpmap"      "Boba_Fett/shaders/normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$model" "1"
+	"$selfillum" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 3]"
+	"$phongalbedotint" "1"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "22"	
+	"$rimlightboost" "0.4"
+}
+
+

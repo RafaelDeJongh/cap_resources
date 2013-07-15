@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "miriam/weapons/barreltip"
+	"$model" 1
+	"$selfillum" "1"
+}

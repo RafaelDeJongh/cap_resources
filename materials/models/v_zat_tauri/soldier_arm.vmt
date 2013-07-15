@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/v_zat/soldier_arm"
+			"$model" 1
+}

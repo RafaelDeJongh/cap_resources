@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/v_zat/haut1"
+	"$bumpmap" "models/v_zat/haut1_normal"
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" .5
+	"$envmapcontrast" 1
+	"$normalmapalphaenvmapmask" 1
+}

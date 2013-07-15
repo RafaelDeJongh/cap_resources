@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/madjawa/malp/body"
+	"$bumpmap" "models/madjawa/malp/bodynormal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}

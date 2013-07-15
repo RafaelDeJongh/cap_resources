@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Weapons/hdevice/handdevice2"
+       	 //"$bumpmap" "Models/Weapons/hdevice/handdevice2_normal"
+	//"$normalmapalphaenvmapmask" 1
+}

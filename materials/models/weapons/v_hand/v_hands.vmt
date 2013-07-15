@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "Models/weapons/v_hand/v_hands"
+    "$bumpmap" "Models/weapons/v_hand/v_hands_normal"
+ 	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}
+

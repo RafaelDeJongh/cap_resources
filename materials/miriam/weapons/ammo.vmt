@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "miriam/Weapons/Ammo"
+	"$selfillum" "1"
+}

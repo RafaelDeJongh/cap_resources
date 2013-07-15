@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"  "models/SGW/Hatak/HatakRingDiffuse"
+	"$bumpmap"     "models/SGW/Hatak/HatakRingNormal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+    	"$surfaceprop" "metal"
+	"$model" "1"		
+ 	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 3 1]"
+	"$halflambert" "1"
+	"$phongalbedotint" "1"
+}

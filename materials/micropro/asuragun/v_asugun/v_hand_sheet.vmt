@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	"$basetexture" "micropro/Asuragun/v_asugun/v_hand_sheet"
+	"$bumpmap"    "micropro/Asuragun/v_asugun/v_hand_sheet_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 3]"
+	"$phongalbedotint" "1"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "48"	
+	"$rimlightboost" "0.1"
+}
+
+

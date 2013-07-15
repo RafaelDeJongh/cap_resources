@@ -1,0 +1,23 @@
+"Refract"
+{
+	"$basetexture" "particle/Smoke01_L_U"
+	"$normalmap"  "particle/splash_normal"
+	"$dudvmap"    "particle/splash_dudv" 
+	"$surfaceprop" "water"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$envmapconstrast" "1"
+	"$refractamount" "1"
+
+	"$phong"     "1"
+	"$phongboost"   "1"
+	"$phongexponent"  "10"
+	"$phongtint"             "[0.7 0.9 1]"           
+	"$phongfresnelranges"   "[1 9 6]"    
+	"$phongalbedotint" "1"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp_blue"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"	
+	"$rimlightboost" "0.4"
+}

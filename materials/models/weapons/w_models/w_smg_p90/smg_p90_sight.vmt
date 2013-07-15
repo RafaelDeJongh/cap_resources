@@ -1,0 +1,19 @@
+//This Texture is made by Boba Fett and is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
+// You are not allowed to alter, distribute or use this work for commercial purposes. Without Permission of the author "Boba Fett"
+"Vertexlitgeneric"
+{
+	"$basetexture" "Boba_Fett/P90/smg_p90_sight"
+	"$bumpmap"    "Boba_Fett/P90/smg_p90_sight_normal"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 3]"
+                "$phongtint"                   "[0.6 0.9 1]" 
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "44"	
+	"$rimlightboost" "0.2"
+}

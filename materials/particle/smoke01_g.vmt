@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "particle/Smoke01_G"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

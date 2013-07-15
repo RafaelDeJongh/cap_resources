@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/weapons/v_hand/protection2_jaffa"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "Models/weapons/v_hand/protection2_jaffa_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+}
+
+

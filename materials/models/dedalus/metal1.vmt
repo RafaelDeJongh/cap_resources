@@ -1,0 +1,7 @@
+"VertexLitGeneric" 
+{ 
+   "$basetexture" "models/dedalus/metal1" 
+   "$surfaceprop" "metal"
+   "$model" "1"
+
+} 

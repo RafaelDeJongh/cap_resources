@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "miriam/weapons/rononsgun"
+	"$bumpmap" "miriam/weapons/rononsgun_normal"
+	"$model" 1
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0.7
+	"$envmapsaturation" 0.3
+	"$envmaptint" "[ 0.2 0.2 0.2 ]"
+	"$selfillum" "1"
+}

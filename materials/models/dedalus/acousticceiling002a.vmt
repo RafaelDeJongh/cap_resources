@@ -1,0 +1,6 @@
+"VertexLitGeneric" 
+{
+	"$basetexture" "models/dedalus/acousticceiling002a"
+	"$surfaceprop" "paper"
+	"$model" "1"
+}

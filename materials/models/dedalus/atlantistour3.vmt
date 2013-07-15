@@ -1,0 +1,6 @@
+"VertexLitGeneric" 
+{
+	"$basetexture" "models/dedalus/atlantistour3"
+	"$surfaceprop" "metal"
+	"$model" "1"
+}

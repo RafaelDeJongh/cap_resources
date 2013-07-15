@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	$basetexture "particle/particle_glow_01"
+	$additive 1
+	$vertexcolor 1
+	$vertexalpha 1
+	$nocull 1
+}

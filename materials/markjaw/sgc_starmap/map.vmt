@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "MarkJaw/sgc_starmap/map"
+	"$translucent" 1
+	$nocull 1
+
+}

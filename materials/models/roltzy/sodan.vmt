@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models/roltzy/sodan"
+    "$bumpmap" "models/roltzy/sodan_normal"
+}

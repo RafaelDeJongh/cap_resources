@@ -1,0 +1,26 @@
+"vertexlitgeneric"
+{
+	"$basetexture"    "micropro\zpmslot\zpm_slot_buttons"
+	"$bumpmap"       "micropro\zpmslot\zpm_slot_buttons_normal"     
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "metal"
+	"$selfillum" 1
+ 	"$phong" "1"
+	"$phongexponent" "33"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 8 4]"
+	"$halflambert" "1"
+	"$phongalbedotint" "1"
+	"$envmaptint" "[.2 .2 .4]"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 8.00
+		}
+	}
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric" 
+{
+	"$baseTexture" "models/dedalus/lampe1"
+	"$selfillum" 1
+	"$surfaceprop" "glass"
+	"$nodecal" "1"
+	"$model" "1"
+}

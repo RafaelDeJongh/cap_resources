@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$basetexture" 	"models\PG_props\pg_stargate/pg_adrenalin"
+	"$bumpmap" 	"models\PG_props\pg_stargate/pg_adrenalin_bump"
+        	"$surfaceprop" "metal"
+	"$model" "1"
+		
+
+	"$phong" "1"
+	"$phongexponent" "40"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[0.1 0.2 1]"
+
+	$rimlight               1
+	$rimlightexponent       7
+	$rimlightboost          1
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/madjawa/malp/wheel"
+	"$bumpmap" "models/madjawa/malp/wheelnormal"
+}

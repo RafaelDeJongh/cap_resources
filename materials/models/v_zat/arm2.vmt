@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/v_zat/ARM2"
+	"$bumpmap" "models/v_Zat/arm2_normal"
+
+			"$model" 1
+}
