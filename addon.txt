@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"				"Carter Addon Pack - Resources" 
+	"version"			"2.0"
+	"author_name"		"Boba Fett, Madman07, Llapp, locotus_1, AlexALX"
+	"author_email"		"info@sg-carterpack.com"
+	"author_url"		"www.sg-carterpack.com"
+	"info"				"All of the Resources for the Carter Addon Pack"
+	"override"    "1"
+}
+
+
