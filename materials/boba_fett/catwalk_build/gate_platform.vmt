@@ -1,0 +1,24 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "Boba_Fett/catwalk_build/gate_platform"
+	"$bumpmap"    "Boba_Fett/catwalk_build/gate_platform_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$model" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 3]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "48"	
+	"$rimlightboost" "0.1"
+}
+

@@ -1,0 +1,17 @@
+"UnLitGeneric"
+{
+	"$basetexture"	"effects/ripples"
+	"$model"	"1"
+	"$additive"	"1"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar"	"$basetexturetransform"
+			"texturescrollrate"	"0.05"
+			"texturescrollangle"	"230"
+		}
+
+	}
+}

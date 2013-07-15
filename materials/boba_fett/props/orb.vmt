@@ -1,0 +1,32 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "Boba_Fett/props/orb"
+	"$bumpmap"    "Boba_Fett/shaders/normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$nodecal" "1"
+	"$model" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "5"
+	"$phongboost"   "20"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$lightwarptexture"      "Boba_Fett/shaders/lightwarp_bol"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"	
+	"$rimlightboost" "1"
+}
+
+
+
+
+
+
+
+

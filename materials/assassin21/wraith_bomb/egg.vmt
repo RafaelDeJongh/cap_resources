@@ -1,0 +1,22 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "Assassin21/wraith_bomb/egg"
+	"$bumpmap"    "Assassin21/wraith_bomb/egg_normal"
+	"$surfaceprop" "flesh"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .01 .01 .01 ]"
+	"$model" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "30"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "16"	
+	"$rimlightboost" "0.4"
+}
+

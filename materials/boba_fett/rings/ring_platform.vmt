@@ -1,0 +1,24 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "Boba_Fett/rings/ring_platform"
+	"$bumpmap"    "Boba_Fett/rings/ring_platform_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$model" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 .7 .3]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$phongalbedotint"		"1"
+	"$phongalbedoboost" 	"40"
+	"$halflambert" 		"1"
+
+	"$rimlight" 	"1"
+	"$rimlightexponent" 	"66"	
+	"$rimlightboost"	"0.6"
+}

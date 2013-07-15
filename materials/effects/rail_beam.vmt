@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	
+	"$basetexture" "effects/rail_beam"
+	"$vertexalpha" "1"
+	"$vertexcolor" 1
+	"$translucent" "1"
+	"$additive" "1"
+}

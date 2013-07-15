@@ -1,0 +1,8 @@
+"UnLitGeneric"
+{
+	"$basetexture"	"effects/gradient"
+	"$bumpmap"	"effects/normal"
+	"$model"	"1"
+	//"$additive"	"1"
+	"$translucent"	"1"
+}

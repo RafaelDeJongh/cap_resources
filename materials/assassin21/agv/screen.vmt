@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	"$basetexture" "Assassin21/AGV/screen"
+	"$bumpmap"    "Boba_Fett/shaders/normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+
+ 	"$phong" "1"
+                "$phongexponent" "40"
+	"$phongboost"	"0.2"
+	"$phongfresnelranges"	"[1 5 2]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "40"	
+	"$rimlightboost" "0,2"
+}

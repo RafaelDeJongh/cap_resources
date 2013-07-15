@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"effects/beam_blue_asgard"
+	"$selfillum"	"1"
+	"$additive"	"1"
+}

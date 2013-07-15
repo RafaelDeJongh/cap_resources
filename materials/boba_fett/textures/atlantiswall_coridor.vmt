@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Boba_Fett/textures/atlantis/wall_coridor"
+	"$bumpmap"    "Boba_Fett/textures/atlantis/wall_coridor_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "metal"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "48"	
+	"$rimlightboost" "0.4"
+
+              	"%keywords" "Atlantis"
+}
+

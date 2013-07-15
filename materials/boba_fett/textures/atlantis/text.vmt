@@ -1,0 +1,21 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Boba_Fett/textures/atlantis/text"
+	"$bumpmap"    "Boba_Fett/shaders/normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "glass"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "48"	
+	"$rimlightboost" "0.4"
+
+             	"$selfillum" 1     
+              	"%keywords" "Atlantis"
+}
+

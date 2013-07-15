@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Boba_Fett/ZPM/zpm_depleted"
+	"$bumpmap"    "Boba_Fett/ZPM/zpm_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.7"
+	"$envmaptint" "[ .6 .6 .6 ]"
+	"$surfaceprop" "glass"
+	"$model" 1
+
+	"$phong"     "1"
+	"$phongexponent"  "30"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongalbedotint" "1"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "18"	
+	"$rimlightboost" "0.4"
+}

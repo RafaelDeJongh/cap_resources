@@ -1,0 +1,21 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "Boba_Fett/ramps/sgu_ramp/sgu_ramp_old"
+	"$bumpmap"    "Boba_Fett/ramps/sgu_ramp/sgu_ramp_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "metal"
+	"$model" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "33"	
+	"$rimlightboost" "0.1"
+}

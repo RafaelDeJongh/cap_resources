@@ -1,0 +1,7 @@
+"Sprite"
+{
+	"$basetexture" "effects/bullet_blue"
+	"$spriteorientation" "vp_parallel"
+	"$spriteorigin" "[ 0.50 0.50 ]"
+	"$spriterendermode" 5
+}

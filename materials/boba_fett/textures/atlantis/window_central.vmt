@@ -1,0 +1,26 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Boba_Fett/textures/atlantis/window_central"
+	"$bumpmap"    "Boba_Fett/textures/atlantis/window_central_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.15 .15 .15]"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "48"	
+	"$rimlightboost" "0.4"
+
+	"$translucent" "1"
+	"$nocull" "1" 
+	"$alpha" "1"
+
+              	"%keywords" "Atlantis"
+}
+

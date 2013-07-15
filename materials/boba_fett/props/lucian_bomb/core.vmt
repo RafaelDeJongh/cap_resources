@@ -1,0 +1,40 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "Boba_Fett/props/lucian_bomb/core"
+	"$dudvmap"    "dev/water_dudv"
+	"$normalmap"  "dev/water_normal"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "22"	
+	"$rimlightboost" "0.4"
+
+	"$selfillum" 	"1"
+	"$nocull" 		"1"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.1
+			"texturescrollangle" 0
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumpTransform"
+			"texturescrollrate" 0.1
+			"texturescrollangle" 0
+		}
+	}
+}

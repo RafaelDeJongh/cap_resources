@@ -1,0 +1,28 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "Boba_Fett/ori_staff/ori_staff"
+	"$bumpmap"    "Boba_Fett/ori_staff/ori_staff_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .22 .22 .22 ]"
+	"$model" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "22"
+	"$phongboost"   "2"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "22"	
+	"$rimlightboost" "0.6"
+}
+
+
+
+
+

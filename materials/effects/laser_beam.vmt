@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	
+	"$basetexture" "effects/laser_beam"
+	"$vertexalpha" "1"
+	"$vertexcolor" 1
+	"$translucent" "1"
+	"$additive" "1"
+	"$illumfactor" "10"
+}

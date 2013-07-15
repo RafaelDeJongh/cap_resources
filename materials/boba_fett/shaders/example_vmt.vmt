@@ -1,0 +1,35 @@
+//Exmaple VMT By Boba Fett.
+"vertexlitgeneric"						//VertexLitGeneric is used for models			
+//"LightmappedGeneric"					//LightmappedGeneric is used for world textures
+{
+	"$basetexture" "Root/Model/Diffuse Map"		//Enter here your Diffuse map vtf name.
+	"$bumpmap"    "Root/Model/Normal Map"		//Enter here your Normal map vtf name.
+	"$normalmapalphaenvmapmask" 1			//This command tells the game that there is a phongmask on the alpha layer of the normal map. "Only use when there is one, if there is non on the alpha layer enter 0"
+	"$surfaceprop" "metal"				//This command tells the game to use the material type you entered. "Most used are (default, rock, metal, wood, grass, dirt, sand, water, etc...) 
+	"$envmap" "env_cubemap"				//This command tells the game to use a reflection from the generated cube map of the map you are playing on. (good for reflections on your model)
+	"$envmaptint" "[ .1 .1 .1 ]"				//This command tells the game to set a environment reflection tint.
+	"$model" "1"					//Tells if the texture is for a model or not.
+	"$translucent" "1"					//Makes your texture translucent (works with your alpha channel on your diffuse texture "can't be used with selfillium")
+	"$selfillum" "1"					//Maeks your texture glow in the dark (works with your alpha channel on your diffuse texture "can't be used with translucent")
+	
+
+		//These commands can only be used when phong is available:
+
+	"$phong"     "1"					//This enables phong.
+	"$phongexponent"  "22"				//This tells the model that how much the phong shall affect the model.
+	"$phongexponenttexture" "Exponent Texture"		//This uses a texture to tells how much phong affects the model.
+	"$phongboost"   "1"				//This controls the master brightness of the phong effect.
+	"$phongtint"                    "[0.7 0.9 1]"                                    // Specular light tint for this material. [0.7 0.9 1] is blued, [1 1 0.8] is yellowed.
+	"$phongfresnelranges"   "[1 9 6]"			//Now imagine a circle. X is the inner brightness of the circle, and y is nearly the outer brightness. Z is a rim light.
+	"$phongalbedotint" "1"				//This command will make the phong that bit better on the model.
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"	//This will use the phongwarp, this is a shader first seen in EP2 on the hunter (that green stuff) you can do much cool things with colors and other stuff, works really great with normal maps and phong.
+	"$lightwarptexture"      "Boba_Fett/shaders/lightwarp"	//This command will use a lightwarp texture (can be gray scaled or colored) to give the model a more shadow effect or color effect when you make this texture.
+	"$halflambert" "1"					//If turned on you can experience a great quality result being in-game.
+
+		//These commands need phong enabled:
+
+	"$rimlight" "1"					//This enables rimlight.
+	"$rimlightexponent" "22"				//This will tell how much the rimlight affects the model.
+	"$rimlightboost" "0.2"				//This controls the master brightness of the rimlight effect.
+}
+

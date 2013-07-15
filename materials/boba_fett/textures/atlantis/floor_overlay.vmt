@@ -1,0 +1,24 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Boba_Fett/textures/atlantis/floor_overlay"
+	"$bumpmap"    "Boba_Fett/textures/atlantis/floor_overlay_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "metal"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "48"	
+	"$rimlightboost" "0.4"
+
+    	"$translucent" "1"
+	"$nocull" "1"
+	"$alpha" ".7 "
+
+              	"%keywords" "Atlantis"
+}
+
