@@ -1,0 +1,22 @@
+"vertexlitgeneric" 
+{
+    	"$basetexture" "Iziraider\shuttle\dark"
+	"$bumpmap"    "Iziraider\shuttle\ship_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "metal"
+	"$model" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 3]"
+	"$phongalbedotint" "1"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "48"	
+	"$rimlightboost" "0.1"
+}
+

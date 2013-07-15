@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+  	"$basetexture" "Iziraider/dakara/door"
+    	"$bumpmap"    "Iziraider/dakara/door_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "stone"
+	"$model" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "66"	
+	"$rimlightboost" "0.2"
+}
+
+
+
+
+

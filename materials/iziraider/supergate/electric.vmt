@@ -1,0 +1,17 @@
+"UnLitGeneric"
+{
+	"$basetexture"	"Iziraider/supergate/electric"
+	"$model"	"1"
+	"$additive"	"1"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar"	"$basetexturetransform"
+			"texturescrollrate"	"0.15"
+			"texturescrollangle"	"230"
+		}
+
+	}
+}
