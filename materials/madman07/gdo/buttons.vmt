@@ -1,0 +1,30 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Madman07/GDO/buttons"
+	"$bumpmap"    "Madman07/GDO/buttons_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.1 0.1 0.1]"
+	"$model" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "22"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 8 4]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "24"	
+	"$rimlightboost" "0.2"
+}
+
+
+
+
+
+
+

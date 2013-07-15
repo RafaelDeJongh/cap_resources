@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	"$basetexture" "Madman07/Stargate/glyphs_on_sga"
+	"$bumpmap"    "Boba_Fett/shaders/normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$additive" 1
+	"$selfillum" 1
+}

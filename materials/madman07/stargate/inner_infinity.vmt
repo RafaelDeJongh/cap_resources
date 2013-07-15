@@ -1,0 +1,21 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "madman07/stargate/inner_infinity"
+	"$bumpmap"    "madman07/stargate/inner_infinity_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "metal"
+	"$model" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "33"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "33"	
+	"$rimlightboost" "0.4"
+}
+

@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+	"$basetexture"   "Madman07/anti_priest/light_on"
+	"$bumpmap"     "Boba_Fett/shaders/normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "metal"
+	"$selfillum" "1"
+
+ 	"$phong" "1"
+	"$phongexponent" "33"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 9 6]"
+	"$halflambert" "1"
+	"$phongalbedotint" "1"
+
+	"$frame" "24"
+
+		"Proxies" 
+ 	       {
+		"AnimatedTexture" 
+		{ 
+	"animatedTextureVar" "$basetexture" 
+	"animatedTextureFrameNumVar" "$frame" 
+	"animatedTextureFrameRate" "32"
+		}
+	}
+}

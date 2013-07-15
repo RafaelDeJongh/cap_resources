@@ -1,0 +1,14 @@
+"vertexlitgeneric" 
+{
+    	"$basetexture" "Madman07/ring_panel/ancient_buttons_5"
+	"$bumpmap"    "Madman07/ring_panel/ancient_buttons_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$model" 1
+	"$phong" "1"
+	"$Selfillum" "1"
+	"$phongexponent" "33"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[1 6 3]"
+	"$halflambert" "1"
+	"$phongalbedotint" "1"
+}

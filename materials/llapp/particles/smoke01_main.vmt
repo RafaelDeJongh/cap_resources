@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Llapp/particles/Smoke01_Main"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

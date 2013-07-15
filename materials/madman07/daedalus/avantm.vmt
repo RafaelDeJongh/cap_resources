@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$basetexture"	"Madman07\daedalus\avantm"
+	"$bumpmap" "Madman07\daedalus\normal"
+	"$normalmapalphaenvmapmask" 1
+    	"$surfaceprop" "metal"
+ 	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 4 2]"
+	"$halflambert" "1"
+	"$phongalbedotint" "1"
+}
