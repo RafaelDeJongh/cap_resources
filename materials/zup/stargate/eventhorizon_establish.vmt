@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Zup/Stargate/eventhorizon_establish"
+ 	"$model" 1
+    	"$nocull" "1"
+	"$additive" "1"
+	
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 0.1
+			"texturescrollangle" 90
+		}
+	}
+}

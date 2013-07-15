@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/HUD/F302_HUD/F302_HUD"
+	"$selfillum" 1
+	"$translucent" 1
+}

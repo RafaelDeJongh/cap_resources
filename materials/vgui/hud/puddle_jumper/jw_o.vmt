@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/HUD/puddle_jumper/JW_O"
+	"$selfillum" 1
+	"$translucent" 1     
+}

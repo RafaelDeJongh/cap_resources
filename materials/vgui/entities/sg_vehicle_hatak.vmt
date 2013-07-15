@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "VGUI\entities\sg_vehicle_hatak"
+	"$surfaceprop" "metal"
+	"$model"     1
+}

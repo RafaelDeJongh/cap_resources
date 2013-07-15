@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/HUD/railgun/blue"
+	"$selfillum" 1
+	"$translucent" 1      
+}

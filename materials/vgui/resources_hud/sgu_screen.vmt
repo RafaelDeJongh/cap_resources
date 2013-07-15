@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"VGUI/resources_hud/sgu_screen"
+	"$selfillum"	"1"
+	"$additive"	"1"
+}

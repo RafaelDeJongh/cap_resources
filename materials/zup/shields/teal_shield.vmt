@@ -1,0 +1,17 @@
+"Refract"
+{
+ 	"$model" 1
+ 	"$refractamount" "0.2"
+	//"$bluramount" "0"
+	"$REFRACTTINT" "{250 250 250}"
+	"$scale" "[1 1]"
+ 	"$dudvmap" "zup/Shields/shield_normal" 
+ 	"$normalmap" "zup/Shields/shield_normal"
+ 	"$surfaceprop" "water"
+	"$nocull" 1
+	//"$ignorez" 0
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.0 .10 .15]"
+	"$selfillum" 1
+
+}

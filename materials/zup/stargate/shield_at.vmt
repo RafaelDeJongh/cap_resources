@@ -1,0 +1,30 @@
+"unlitgeneric"
+{
+	"$basetexture"	"Zup/Stargate/shield_at"
+	"$bumpmap"           "Zup/Stargate/shield_at_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$translucent" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "22"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp_blue"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "33"	
+	"$rimlightboost" "0.3"
+}
+
+
+
+
+
+
+

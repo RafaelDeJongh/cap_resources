@@ -1,0 +1,6 @@
+"sky"
+{
+	"$basetexture" "skybox/cloud_sky_up"
+	"$ignorez" 1
+	"$hdrcompressedTexture" "skybox/cloud_sky_up"
+}

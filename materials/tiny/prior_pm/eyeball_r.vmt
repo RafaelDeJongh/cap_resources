@@ -1,0 +1,22 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "Tiny/Prior_PM/EyeBall_R"
+	"$bumpmap"    "Tiny/Prior_PM/eye_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+
+	"$phong"     "1"
+	"$phongexponent"  "28"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[1 9 3]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "48"	
+	"$rimlightboost" "0.1"
+}
+

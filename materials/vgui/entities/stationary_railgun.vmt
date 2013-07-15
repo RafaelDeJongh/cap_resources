@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/stationary_railgun"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

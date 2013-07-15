@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Zup/Stargate/eh_closing"
+	"$bumpmap"    "sgs/horizon_normal"
+	"$dudvmap"     "sgs/horizon_dudv"
+	"$surfaceprop" "water"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .2]"
+	"$envmapconstrast" "1"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

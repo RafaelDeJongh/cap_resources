@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/HUD/BC304_HUD/power_hull_shield_bar"
+	"$selfillum" 1
+	"$translucent" 1
+}

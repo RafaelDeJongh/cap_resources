@@ -1,0 +1,25 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "The_Sniper_9/Universe/Stargate/universechevronon"
+	"$bumpmap"    "The_Sniper_9/Universe/Stargate/universechevron_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$model" "1"
+	"$selfillum" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "22"
+	"$phongboost"   "2"
+	"$phongfresnelranges"   "[1 9 6]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "22"	
+	"$rimlightboost" "0.4"
+}
+

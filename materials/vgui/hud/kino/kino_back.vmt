@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/HUD/kino/kino_back"
+	"$translucent" 1   
+}

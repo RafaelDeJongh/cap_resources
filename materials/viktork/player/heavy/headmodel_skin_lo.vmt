@@ -1,0 +1,19 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" 	"ViktorK/player/heavy/headmodel_skin_lo"
+	"$bumpmap" 	"Boba_Fett/shaders/normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "38"
+	"$phongboost"   "1"
+	"$phongfresnelranges"      "[1 4 8]"
+	"$phongtint"                   "[0.8 1.1 1.3]" 
+	"$phongalbedotint"		"1"
+        	"$phongalbedoboost" "38"
+
+	"$rimlight" 	"1"
+	"$rimlightexponent" 	"88"	
+	"$rimlightboost"	"0.2"
+}

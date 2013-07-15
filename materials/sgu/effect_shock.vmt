@@ -1,0 +1,22 @@
+"unlitgeneric"
+{
+	"$basetexture" "sgu/horizon_shock"
+	"$bumpmap"    "sgs/horizon_normal"
+	"$dudvmap"     "sgs/horizon_dudv"
+	"$surfaceprop" "water"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .2]"
+	"$envmapconstrast" "1"
+	"$selfillum" "1"
+             //"$additive" "0.3"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 15.00
+		}
+	}
+}

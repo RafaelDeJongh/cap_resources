@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "VGUI\entities\rep_h_creator"
+	"$surfaceprop" "metal"
+	"$model"     1
+}

@@ -1,0 +1,19 @@
+"UnlitGeneric"
+{
+	"$translucent"	1
+	"$basetexture" "VGUI/malp/malpoverlaydots"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" 0.1
+      }
+   }
+}

@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" 	"Tiny/atl_transporter/blue-dot"
+	"$translucent"	"1"
+	"$vertexalpha"	"1"
+	"$vertexcolor"	"1"
+	"$no_fullbright" 	"1"
+	"$ignorez" 	"1"
+}

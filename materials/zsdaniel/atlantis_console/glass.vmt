@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Boba_Fett/shaders/glass_white"
+	"$bumpmap"    "Boba_Fett/shaders/normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$translucent" 1
+
+	"$phong"     "1"
+	"$phongexponent"  "8"
+	"$phongboost"   "2"
+	"$phongfresnelranges"   "[1 9 3]"
+	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp_blue"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "12"	
+	"$rimlightboost" "0.4"
+}

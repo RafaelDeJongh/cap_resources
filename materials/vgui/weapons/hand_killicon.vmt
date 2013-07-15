@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/weapons/hand_killicon"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

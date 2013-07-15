@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$translucent"	1
+	"$basetexture" "VGUI/malp/malpoverlaysignal0"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+}

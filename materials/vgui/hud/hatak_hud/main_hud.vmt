@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/HUD/Hatak_HUD/main_hud"
+	"$selfillum" 1
+	"$translucent" 1    
+}
