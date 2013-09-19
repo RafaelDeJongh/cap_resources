@@ -1,8 +1,18 @@
-"vertexlitgeneric"
+VertexLitGeneric
 {
-	"$baseTexture" "Models/weapons/v_hand/v_hands"
-    "$bumpmap" "Models/weapons/v_hand/v_hands_normal"
- 	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-}
+	"$basetexture" "Boba_Fett\hands\v_hands"
+	"$bumpmap"    "Boba_Fett\hands\v_hands_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
 
+ 	"$phong" "1"
+                "$phongexponent" "40"
+	"$phongboost"	"0.4"
+	"$phongfresnelranges"	"[1 5 2]"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "40"	
+	"$rimlightboost" "0.4"
+}

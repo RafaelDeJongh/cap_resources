@@ -6,12 +6,10 @@ VertexLitGeneric
 	"$normalmapalphaphongmask"    "1"
 
  	"$phong" "1"
-                "$phongexponent" "40"
+                "$phongexponent" "38"
 	"$phongboost"	"0.2"
 	"$phongfresnelranges"	"[1 5 2]"
-	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
 	"$phongalbedotint" "1"
-	"$halflambert" "1"
 
 	"$rimlight" "1"
 	"$rimlightexponent" "40"	

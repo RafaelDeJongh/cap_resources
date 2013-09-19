@@ -1,8 +1,0 @@
-"VertexLitGeneric" 
-{
-	"$baseTexture" "models/dedalus/atlantistour6b"
-	"$selfillum" 1
-	"$surfaceprop" "glass"
-	"$nodecal" "1"
-	"$model" "1"
-}

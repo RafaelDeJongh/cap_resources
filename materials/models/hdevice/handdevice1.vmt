@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/hdevice/handdevice1"
- 	//"$envmap" "env_cubemap"
-        //"$bumpmap" "models/hdevice/handdevice1_normal"
-	//"$normalmapalphaenvmapmask" 1
-}

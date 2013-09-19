@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
-	"$basetexture"  "models/weapons/v_hand/hand_black"
-	"$bumpmap"     "models/weapons/v_hand/hand_black_normal"
+	"$basetexture"  "models/weapons/hdevice/hand_black"
+	"$bumpmap"     "models/weapons/hdevice/hand_black_normal"
 
 	"$phong"     "1"
 	"$phongboost"   "0.2"
@@ -14,4 +14,4 @@
 	"$rimlightboost"	"0.8"
 }
 
-
+	

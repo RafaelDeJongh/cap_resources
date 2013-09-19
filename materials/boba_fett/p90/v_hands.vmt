@@ -9,7 +9,6 @@ VertexLitGeneric
                 "$phongexponent" "40"
 	"$phongboost"	"0.4"
 	"$phongfresnelranges"	"[1 5 2]"
-	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
 	"$phongalbedotint" "1"
 	"$halflambert" "1"
 

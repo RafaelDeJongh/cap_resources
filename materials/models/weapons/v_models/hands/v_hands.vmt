@@ -1,20 +1,18 @@
-//This Texture is made by Boba Fett and is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
-// You are not allowed to alter, distribute or use this work for commercial purposes. Without Permission of the author "Boba Fett"
 VertexLitGeneric
 {
 	"$basetexture" "Boba_Fett\hands\v_hands"
 	"$bumpmap"    "Boba_Fett\hands\v_hands_normal"
 	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
 
  	"$phong" "1"
                 "$phongexponent" "40"
-	"$phongboost"	"0.2"
+	"$phongboost"	"0.4"
 	"$phongfresnelranges"	"[1 5 2]"
-	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
 	"$phongalbedotint" "1"
 	"$halflambert" "1"
 
 	"$rimlight" "1"
-	"$rimlightexponent" "44"	
-	"$rimlightboost" "0,2"
+	"$rimlightexponent" "40"	
+	"$rimlightboost" "0.4"
 }

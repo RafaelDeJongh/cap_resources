@@ -1,9 +1,0 @@
-"VertexLitGeneric" 
-{
-	"$basetexture" "models/dedalus/metalgrilles1"
-	"%compilepassbullets" 1
-	"$surfaceprop" "metalgrate"
-	"%keywords" "airexchange,c17industrial,combine,wasteland"
-	"$alphatest" 1
-	"$model" "1"
-}

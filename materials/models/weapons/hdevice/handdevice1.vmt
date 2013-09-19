@@ -1,6 +1,13 @@
 "VertexLitGeneric"
 {
-	"$baseTexture" "Models/Weapons/hdevice/handdevice1"
-       	 //"$bumpmap" "Models/Weapons/hdevice/handdevice1_normal"
-	//"$normalmapalphaenvmapmask" 1
+	"$basetexture"  "models/weapons/hdevice/handdevice1"
+	"$bumpmap"     "models/weapons/hdevice/handdevice1_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.02 .02 .02]"
+
+	"$phong"     "1"
+	"$phongboost"   "0.8"
+	"$phongexponent" "28"
+	"$phongfresnelranges"      "[1 3 4]"
+	"$phongalbedotint"		"1"
 }
