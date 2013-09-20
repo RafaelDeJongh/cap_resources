@@ -13,7 +13,6 @@
 	"$phongexponent"  "33"
 	"$phongboost"   "1"
 	"$phongfresnelranges"   "[1 8 4]"
-	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
 	"$phongalbedotint" "1"
 	"$halflambert" "1"
 
