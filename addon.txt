@@ -1,10 +1,10 @@
 "AddonInfo"
 {
 	"name"				"Carter Addon Pack - Resources" 
-	"version"			"2.0"
+	"version"			"2.5"
 	"author_name"		"Rafaël De Jongh, Madman07, Llapp, locotus_1, AlexALX"
 	"author_email"		"info@sg-carterpack.com"
 	"author_url"		"www.sg-carterpack.com"
-	"info"				"All the resources for the Carter Addon Pack"
+	"info"				"All the resource files for the Carter Addon Pack"
 	"override"    "1"
 }

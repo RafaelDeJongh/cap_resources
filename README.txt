@@ -1,2 +1,2 @@
 This is the repository for all the resources from the Carter Addons Pack, this includes: textures, models, sounds and more.
-For more information about the addon, please visit: www.sg-carterpack.com
+For more information about the addon, please visit: http://www.sg-carterpack.com
