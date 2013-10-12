@@ -1,0 +1,17 @@
+# We do not own these fonts nor have any license on them, these are free to download and can be found here: http://www.thescifiworld.net/fonts.htm
+
+# Fonts edited by AlexALX
+
+# Atlantis font created by AlexALX 
+
+
+
+Font names:
+
+Stargate Address Glyphs SG1 - For sg1 type gates.
+
+Stargate Address Glyphs Concept - For sg1 type gates with earth point of origin.
+
+Stargate Address Glyphs U - For universe gates with universe DHD symbol order.
+
+Stargate Address Glyphs Atl - For Atlantis gates.
