@@ -1,7 +1,7 @@
 "UnlitGeneric"
 {
-	"$basetexture" "VGUI/entities/empty"
-	"$nolod" 1
-	"$vertexalpha" 1
-	"$vertexcolor" 1
+	"$basetexture" "VGUI/entities/nox_hands"
+	"$vertexcolor" 		1 
+	"$vertexalpha" 		1 
+	"$nolod" 			1 
 }

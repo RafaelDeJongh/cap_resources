@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"VGUI/weapons/nox_hands"
+	"$ignorez"		1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$nolod" "1"
+}
