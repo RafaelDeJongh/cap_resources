@@ -13,9 +13,6 @@
 	"$phongexponent"  "22"
 	"$phongboost"   "2"
 	"$phongfresnelranges"   "[1 9 6]"
-	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
-	"$phongalbedotint" "1"
-	"$halflambert" "1"
 
 	"$rimlight" "1"
 	"$rimlightexponent" "12"	

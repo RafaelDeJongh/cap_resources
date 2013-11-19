@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/weapons/kawoosh_hurt_killicon"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

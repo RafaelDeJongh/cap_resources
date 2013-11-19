@@ -1,5 +1,3 @@
-//This Texture is Created By Sniper9 And Edited by Boba Fett and is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
-// You are not allowed to alter, distribute or use this work for commercial purposes. Without Permission of the authors "Sniper9, Boba Fett"
 "VertexlitGeneric"
 {
 	"$basetexture" "Boba_Fett/shaders/light_on"
@@ -8,16 +6,12 @@
 	"$surfaceprop" "glass"
 	"$envmap" "env_cubemap"
 	"$envmaptint" "[ .1 .1 .1 ]"
-	"$envmapconstrast" "1"
 	"$selfillum" "1"
 
 	"$phong"     "1"
 	"$phongexponent"  "22"
 	"$phongboost"   "2"
 	"$phongfresnelranges"   "[1 9 6]"
-	"$phongwarptexture"  "Boba_Fett/shaders/phongwarp"
-	"$phongalbedotint" "1"
-	"$halflambert" "1"
 
 	"$rimlight" "1"
 	"$rimlightexponent" "12"	
