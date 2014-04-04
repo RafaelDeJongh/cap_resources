@@ -1,7 +1,7 @@
 Vertexlitgeneric
 {
 	// MAIN SETTINGS
-	$basetexture	"Boba_Fett/tac/tac"
+	$basetexture	"Boba_Fett/tac/tac_white"
 	$bumpmap	"Boba_Fett/tac/tac_normal"
 
 	// PHONG SHADING
