@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" 	"gmod4phun/lsd_dot_white"
+	"$translucent"	"1"
+	"$vertexalpha"	"1"
+	"$vertexcolor"	"1"
+	"$no_fullbright" 	"1"
+	"$ignorez" 	"1"
+}
