@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "Zup/Stargate/eh_closing"
+	"$basetexture" "Zup/Stargate/eh_closing_fix"
 	"$bumpmap"    "sgs/horizon_normal"
 	"$dudvmap"     "sgs/horizon_dudv"
 	"$surfaceprop" "water"
