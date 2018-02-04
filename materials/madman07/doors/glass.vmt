@@ -22,4 +22,5 @@
 	"$rimlight" "1"
 	"$rimlightexponent" "12"	
 	"$rimlightboost" "0.4"
+	"$nodecal" "1"
 }
